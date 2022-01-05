@@ -1,19 +1,15 @@
 # vuex-router-vuetify
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+vue add vuetify
+npm i vue-router
+npm install axios
+npm install vuex --save
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+IN THIS PROJECT USED ROUTES , VUEX, VUETIFY.
+CREATED TWO PAGES(MAIN PAGE, PHOTO PAGE)
+ON PHOTO PAGE WE UPLOAD IMAGE
+
+
+
